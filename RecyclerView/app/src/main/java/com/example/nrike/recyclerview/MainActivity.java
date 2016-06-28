@@ -28,10 +28,10 @@ public class MainActivity extends AppCompatActivity {
 
     public void newObjects(){
         objects = new ArrayList<>();
-        objects.add(new Object("Android","1","Enrique"));
-        objects.add(new Object("Android","2","Mara"));
-        objects.add(new Object("IOS","3","Pablo"));
-        objects.add(new Object("IOS","4","Mara"));
+        objects.add(new Object("Android","1","Jaimito"));
+        objects.add(new Object("Android","2","Pepito"));
+        objects.add(new Object("IOS","3","Tamare"));
+        objects.add(new Object("IOS","4","Tonpare"));
     }
 
     @Override
