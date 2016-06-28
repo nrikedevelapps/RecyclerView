@@ -30,8 +30,8 @@ public class MainActivity extends AppCompatActivity {
         objects = new ArrayList<>();
         objects.add(new Object("Android","1","Jaimito"));
         objects.add(new Object("Android","2","Pepito"));
-        objects.add(new Object("IOS","3","Tamare"));
-        objects.add(new Object("IOS","4","Tonpare"));
+        objects.add(new Object("IOS","3","Rigoberto"));
+        objects.add(new Object("IOS","4","Armensio"));
     }
 
     @Override
